@@ -32,7 +32,7 @@ Libraries
 Where is python on windows?
 	- Often c:\pythonXX
 
-# Monday afternoon, June 20th1. Sharing: Program designa. When to teach program flow logicb. Howtoteachprogramdesign:algorithm,flow-charts,etc? 
+# Monday afternoon, June 20th1. Sharing: Program designa. When to teach program flow logicb. How to teach program design: algorithm,flow-charts,etc? 
 
 What techniques are you using to teach algorithms? Flow charts, UDL’s, etc.? (shin likes dancing instructions)
 
@@ -43,7 +43,14 @@ if a == 1:
 	print(‘blahblahblah’)
 
 You must follow the indenting - no semicolons or curly braces
-3. Variables:naming(Cconvention)anddeclaring(not!)4. Literals:decimalsandquotesandapostrophes5. Hands-on:“MakingChange,3.4”and“MyDays,3.5”
+
+There is no container for main
+
+# comments begin this way
+3. Variables: naming (C convention) and declaring (not!)
+
+
+4. Literals: decimals and quotes and apostrophes5. Hands-on:“MakingChange,3.4”and“MyDays,3.5”
 
 
 
