@@ -49,8 +49,39 @@ There is no container for main
 # comments begin this way
 3. Variables: naming (C convention) and declaring (not!)
 
+Integers and Floating Point numbers
 
-4. Literals: decimals and quotes and apostrophes5. Hands-on:“MakingChange,3.4”and“MyDays,3.5”
+x = 0.0
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+x += .1
+
+if x == 1.0:
+    print ('x is one')
+else:
+    print ('x is not one')
+
+print ('x is', x)
+
+a = ‘hello’
+b = ‘world’
+c = a+b
+print (c)
+
+# immutable string
+
+we don’t have to declare variable types but they will change!!!
+4. Literals: decimals and quotes and apostrophes
+
+- whether it has a decimal point or not
+5. Hands-on:“MakingChange,3.4”and“MyDays,3.5”
 
 
 
