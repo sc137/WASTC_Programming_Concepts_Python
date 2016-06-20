@@ -1,0 +1,29 @@
+Robert Burns
+Diablo Valley College
+http://rdb3.com/python/
+http://rdb3.com/wastc
+http://rdb3.com/wastc/Curriculum.pdf
+
+ITIS 130
+
+Programming Concepts in Python
+
+PyCharm
+	- jet brains pycharm community edition
+
+
+repl.it
+
+using python 3
+
+Python 3
+	- unicode support
+	- libraries changed
+
+Libraries
+	- import math
+	- math.pi
+
+Where is python on windows?
+	- Often c:\pythonXX
+
