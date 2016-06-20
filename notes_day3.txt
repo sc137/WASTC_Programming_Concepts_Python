@@ -1,0 +1,12 @@
+# Wednesday morning, June 22nd 1. Sharing
+a. command-line vs PyCharm vs repl.it
+b. codeeditoroptions–configurationissues 2. For-loops
+3. Ifelse-iflogic
+4. Hands-on:“Rock-Scissors-Paper,7.8”
+
+# Wednesday afternoon, June 22nd
+1. Programmer-written functions
+2. Hands-on:“Password Protection,8.3 and 8.4”,“3-Question Quiz,8.5 and
+9.1”
+3. Entry point options in Python
+4. Sharing: main() or notmain()?

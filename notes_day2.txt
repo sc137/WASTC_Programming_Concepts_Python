@@ -1,0 +1,18 @@
+# Tuesday morning, June 21st
+1. Binary operations: C/C++/Java standards
+a. whole number division
+b. swapping 2. Library functions
+a. Console input
+3. Output formatting
+4. Hands-on:“MortgageCalculator,4.1 and 5.1”
+5. Sharing:favorite introductory assignments
+
+
+# Tuesday afternoon, June 21st
+1. If-logic
+2. Gaming–randomizing
+3. Loopsyntax
+4. Hands-on:“InputValidation,7.2”,“CoinToss,6.5,7.4and7.5”,“Over-
+Under Guessing Game, 6.6 and 6.7”
+5. Demonstration:round-off error
+6. Sharing:favorite introductory games
