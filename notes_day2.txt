@@ -1,11 +1,50 @@
 # Tuesday morning, June 21st
 1. Binary operations: C/C++/Java standards
-a. whole number division
-b. swapping 2. Library functions
-a. Console input
+	a. whole number division
+	
+	a = 1
+	b = 3
+	print(a/b) # 0.33333333333333
+	
+	a = 2
+	b = 3
+	print(a/b) # 0.66666666666666
+	
+	# we can caste into an integer
+	>>> print (int(a/b))
+	0
+
+	# we can use double divide // for floor division
+	>>> print (a // b)
+	0
+
+	
+	b. swapping 
+	
+	We could use a temp:
+	
+	temp = a
+	a = b
+	b = temp
+	
+	or
+	
+	a = 'hello'
+	b = 'world'
+	a,b = b,a 	# will swap a and b
+	
+
+2. Library functions
+	a. Console input
+
 3. Output formatting
+
+
 4. Hands-on:“MortgageCalculator,4.1 and 5.1”
+
+
 5. Sharing:favorite introductory assignments
+
 
 
 # Tuesday afternoon, June 21st

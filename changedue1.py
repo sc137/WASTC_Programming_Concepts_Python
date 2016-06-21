@@ -1,9 +1,12 @@
-# Day 1 Exercise - Change Due
 # WASTC 6/20/16
 # Sable Cantus
+# Day 1 Exercise - Change Due
+# Calculate change due and what denomination to pay out
+# Make sure payment is more than what is owed and not 0
 
-amountDue = 273
-amountTendered = 300
+
+amountDue = int(input('How much is the bill? '))
+amountTendered = int(input('How much was paid? '))
 changeDue = amountTendered - amountDue
 
 if amountTendered < amountDue or amountTendered <= 0:
