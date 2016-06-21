@@ -95,16 +95,61 @@ print("%.1f" % x, "%.2f" % x)
 
 4. Hands-on:“MortgageCalculator,4.1 and 5.1”
 
-
 5. Sharing:favorite introductory assignments
 
 
 
 # Tuesday afternoon, June 21st
 1. If-logic
+
+* No {} curly braces in python - use indenting
+* input validation
+
+if x==0:		# parens () are okay, not needed
+	print ("x is zero")
+	...
+	...
+	...
+
+while True if break		# True and False booleans are capitalized
+
+while True:
+	if ...: break
+
+put range on the outside for and / or
+
+if 80 <= x and x <= 89:	# for instance...
+
+else if in python is elif
+
+elif
+
+use break to exit infinite loops
+
+
 2. Gaming–randomizing
+
+n = random.randint(1,10)
+
+six sided die random.randint(1,6)
+
+
 3. Loopsyntax
+
+counter = 0
+while counter != 10:
+    print ("Hello, world -- ", counter)
+    counter += 1
+    
+  
+
+
 4. Hands-on:“InputValidation,7.2”,“CoinToss,6.5,7.4and7.5”,“Over-
 Under Guessing Game, 6.6 and 6.7”
+
+
 5. Demonstration:round-off error
+
+
 6. Sharing:favorite introductory games
+
