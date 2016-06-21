@@ -2,8 +2,8 @@
 # WASTC 6/20/16
 # Sable Cantus
 
-amountDue = 45678
-amountTendered = 45000
+amountDue = 273
+amountTendered = 300
 changeDue = amountTendered - amountDue
 
 if amountTendered < amountDue or amountTendered <= 0:
