@@ -10,8 +10,8 @@ computerScore = 0
 humanScore = 0
 play = 'y'
 
-print ("Let's play a game!")
-print ()
+print ("Let's play a game!", "\n")
+
 while play.lower() == 'y':
 
     #generate cards and suite's
