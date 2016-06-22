@@ -13,4 +13,4 @@ mpFormatted = "%.2f" % mp
 totalPayments = mp * n
 totalPaymentsFormatted = "%.2f" % totalPayments
 print("Your Monthly payment is: ", mpFormatted)
-print("Your Monthly payment is: ", totalPaymentsFormatted)
+print("Your total payment is: ", totalPaymentsFormatted)
