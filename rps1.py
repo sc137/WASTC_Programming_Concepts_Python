@@ -4,7 +4,11 @@
 # Exercise 7.8, Rock, Paper, Scissors
 # http://www.rdb3.com/python/exercises/7.8.pdf
 
+# need to fix "enter" as out of range...
+
 import random, time
+
+# vars
 computerScore = 0
 player1Score = 0
 winner = 0
@@ -26,10 +30,11 @@ while play.lower() == 'y':
 		computerChoice = 'p'
 	if computerPlay == 3:
 		computerChoice = 's'
-	
+
 	print ("Choose: [Rock, Paper, Scissors, Quit]: ", end="")
 	player1Choice = input()[0]
-	player1Choice = player1Choice.lower()
+	player1Choice = player1Choice.lower()	
+		
 	player1Play = 0
 	
 	if player1Choice == 'r':

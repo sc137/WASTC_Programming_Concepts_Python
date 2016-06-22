@@ -1,0 +1,14 @@
+Thursday morning, June 23rd
+1. Python “arrays”, tuples, and lists
+
+
+2. Array-based lists
+
+
+3. Hands-on: “MP3 Player, 13.3”
+
+Thursday afternoon, June 23rd
+1. Objects
+2. Linked lists
+3. Hands-on: “Game Of War, 6.8, 7.6, 7.7 and 12.3”, “Over-Under Guessing
+Game, 6.6, 6.7 and 14.1”
