@@ -1,14 +1,120 @@
 Thursday morning, June 23rd
 1. Python “arrays”, tuples, and lists
 
+Now we are talking about data structures
+
+* arrays
+* array based list
+* linked list
+* collection
+
+sorting and searching
+
+create an array:
+
+a = []
+
+indicate what you want inside and how much
+
+>>> a = [0 for i in range(10)]
+>>> a
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+>>> len(a)
+10
+
+You can assign any individual value
+
+a[0] = 'red'
+a[3] = 'green'
+
+Print a range from an array
+
+print (a[1:5])
+
+or to the end
+
+print (a[5:])
+
+Multiple assignment...
+
+>>> a = [None for i in range(10)]
+>>> a[3:6] = (5,5,5)
+>>> a
+[None, None, None, 5, 5, 5, None, None, None, None]
+
+Since strings are immutable, we can use split to create an array based on a delimited character
+
+>>> a = "one two three four five"
+>>> a = a.split()
+>>> a
+['one', 'two', 'three', 'four', 'five']
+a
+
+You can copy an array to a new variable and work with that:
+
+>>> b = a.copy()
+>>> b
+['one', 'two', 'three', 'four', 'five']
+
+# we did this many ways incl. b = a + [] and b = a[:]
+
+Search the array:
+
+>>> for i in range(len(a)):
+...     print (a[i])
+... 
+one
+two
+three
+four
+five
+
+>>> a
+['one', 'two', 'three', 'four', 'five', 'one']
+>>> for i in range(len(a)):
+...     if a[i] == 'one':
+...             print ('found at ', i)
+... 
+found at  0
+found at  5
+
+A nested for loop sort
+
+a = [5,7,3,2,1,6,4,5]
+for i in range(len(a)):
+	for j in range(i + 1, len(a)):
+		if a[j] < a[i]:
+			a[i],a[j] = a[j],a[i]
+>>> print (a)
+[1, 2, 3, 4, 5, 5, 6, 7]
+
+Or just use sort...
+
+>>> a = [5,7,3,2,1,6,4,5]
+>>> a.sort()
+>>> a
+[1, 2, 3, 4, 5, 5, 6, 7]
+
 
 2. Array-based lists
+
+We will refer to an array's size as "capacity"
+
+"Sentinel value (unexpected)"
+
+
 
 
 3. Hands-on: “MP3 Player, 13.3”
 
+
+
 Thursday afternoon, June 23rd
 1. Objects
+
+
 2. Linked lists
+
+
 3. Hands-on: “Game Of War, 6.8, 7.6, 7.7 and 12.3”, “Over-Under Guessing
 Game, 6.6, 6.7 and 14.1”
