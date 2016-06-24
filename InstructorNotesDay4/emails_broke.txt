@@ -1,0 +1,329 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Diablo Valley College - 	Directory</title>
+      <meta name="Description" content="Computer Science Department directory" />
+      <meta name="Author" content="Diablo Valley College, www.dvc.edu" />
+      <meta name="robots" content="NOYDIR" />
+      <link href="/_resources/css/sort-w3c.css" rel="stylesheet" type="text/css" />
+      <link href="/_resources/css/newpod2.css" rel="stylesheet" type="text/css" />
+      <link href="/_resources/css/dvc-additional.css" rel="stylesheet" type="text/css" />
+      <!--[if IE 7]> @import url("/_resources/css/sort_ie7.css"); <![endif]--><script type="text/javascript" src="/_resources/js/jquery-1.10.2.min.js"></script><script type="text/javascript" src="/_resources/js/jquery.cycle.all.js"></script><script type="text/javascript" src="/_resources/js/DD_belatedPNG.js"></script><script type="text/javascript" src="/_resources/js/landing-functions.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23996615-1', 'auto');
+  ga('send', 'pageview');
+
+</script><meta name="google-translate-customization" content="e76ee6ad8b78fb37-e9044c05f0a4c607-g8e2b1b960e390e13-b" />
+      <link href="/_resources/css/sidenav.css" rel="stylesheet" type="text/css" /><script type="text/javascript">
+			
+			
+			
+			var ou_dirname="/academics/mcsd/computer-science/";
+			var ou_filename="directory.html";
+			
+		
+	
+	</script><script type="text/javascript" src="/_resources/js/ounav.js"></script><script type="text/javascript">
+					var page_id="http://www.dvc.edu/academics/mcsd/computer-science/directory.html";
+				</script><script xmlns="" xmlns:ouc="http://omniupdate.com/XSL/Variables" src="/_resources/js/DM_redirect_working.js" type="text/javascript"></script>
+      <script xmlns="" xmlns:ouc="http://omniupdate.com/XSL/Variables" type="text/javascript">
+         	DM_redirect("http://m.dvc.edu");
+         
+      </script>
+   </head>
+   <body>
+      <div id="fullheightcontainer">
+         <div id="header">
+            <div class="ada"><p><strong>Shortcut Navigation:</strong><a name="top"> </a> <a name="links"> </a></p>
+<ul>
+<li><a title="Skip to Future Student Content (ctrl/alt + h)" accesskey="h" href="/future/"> Future Student Content </a></li>
+<li><a title="Skip to Current Student Content (ctrl/alt + c)" accesskey="c" href="/current/"> Current Student Content </a></li>
+<li><a title="Skip to Business and Community Content (ctrl/alt + m)" accesskey="m" href="/business/"> Business and Community Content </a></li>
+<li><a title="Skip to San Ramon Campus Content (ctrl/alt + r)" accesskey="r" href="/sanramon/"> San Ramon Campus Content </a></li>
+<li><a title="Skip to page content (ctrl/alt + p)" accesskey="p" href="#centercontainer"> Page Content </a></li>
+<li><a title="Skip to site main navigation (ctrl/alt + n)" accesskey="n" href="#top-nav"> Main Navigation </a></li>
+<li><a title="Skip to search (ctrl/alt + s)" accesskey="s" href="#search-container"> Search </a></li>
+<li><a title="Skip to footer (ctrl/alt + f)" accesskey="f" href="#footer"> Footer </a></li>
+</ul>
+</div>
+            <ul id="top-nav"><!-- new mogo digital code do not remove -->
+<script type="text/javascript">// <![CDATA[
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4380756.fls.doubleclick.net/activityi;src=4380756;type=count0;cat=sitev0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+// ]]></script>
+<noscript>
+<iframe src="http://4380756.fls.doubleclick.net/activityi;src=4380756;type=count0;cat=sitev0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<script type="text/javascript">// <![CDATA[
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4380756.fls.doubleclick.net/activityi;src=4380756;type=count0;cat=pagev0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+// ]]></script>
+<noscript>
+<iframe src="http://4380756.fls.doubleclick.net/activityi;src=4380756;type=count0;cat=pagev0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript><!-- end of new code -->
+<h1 class="section-heading">Main Menu</h1>
+<li><a title="Insite/WebAdvisor" onclick="ga('send', 'pageview', 'webadvisor');" href="http://www.4cd.edu/insite/default.aspx" target="_blank">INSITE/WEBADVISOR</a></li>
+<li><a title="Apply Now" href="/future/steps/index.html">APPLY NOW</a></li>
+<li><a title="Events Calendar" onclick="ga('send', 'pageview', 'calendar');" href="/calendar">CALENDAR</a></li>
+<li><a title="Desire2Learn" onclick="ga('send', 'pageview', 'D2L');" href="https://desire2learn.4cd.edu/" target="_blank">D2L /</a>&nbsp;&nbsp;<a title="Canvas" href="https://dvc.instructure.com" target="_blank">CANVAS</a></li>
+<li><a title="Library" href="/library/index.html">LIBRARY</a></li>
+<li><a title="About DVC" href="/about/index.html">ABOUT DVC</a></li>
+<li><a title="Contact Us" href="/about/contact-information.html">CONTACT US</a></li>
+<li class="last"><a title="Home" href="/index.html">HOME</a></li>
+</ul>
+            <div id="logo"><a title="Diablo Valley College" href="/"><img src="/_resources/images/logo.jpg" alt="DVC Diablo Valley College" /></a>
+</div>
+            <div id="search-container">
+               <div id="searchbox">
+                  <form action="/_resources/search/index.html" id="cse-search-box" method="get"><input name="cx" type="hidden" value="012743399157002631927:aikeq2gkwaa" /><input alt="search" value="search DVC" onfocus="this.value=(this.value=='search DVC')? '' : this.value ;" name="q" id="search" title="type keyword for search" onblur="if(this.value=='')this.value='search DVC'" type="text" /><input type="submit" value="Search" class="gsc-search-button" style="width: 55px; height: 20px; border-radius: 3px; font-weight: bold; color: #000; padding: 0 8px; border: 1px solid #666; margin-left: 2px;" /></form>
+               </div>
+               <ul id="search-nav"><!-- test-->
+<li><a href="/azindex.html">A-Z INDEX</a></li>
+<li class="last"><a href="/directory/index.html">DIRECTORY</a></li>
+<!-- Google website translator plugin begin-->
+<div id="google_translate_element"> </div>
+<script type="text/javascript">function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,en,es,fa,fr,hi,id,it,ja,ko,pt,ru,tl,tr,vi,zh-CN,zh-TW', autoDisplay: false, gaTrack: true, gaId: 'UA-23996615-1'}, 'google_translate_element'); } </script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- Google website translator plugin end-->
+</ul>
+            </div>
+         </div>
+         <div id="sub-pod-banner">
+            <div id="sub-pod-nav">
+               <ul class="sub-pod-nav-links">
+                  <li class="offices"><a href="/academics/">	Academics</a></li>
+               </ul>
+            </div>
+            <div id="no-slide">
+               <p>	Directory</p>
+            </div>
+         </div>
+         <div id="centercontainer">
+            <div id="lowercontainer">
+               <div id="lower-nav" class="officesbackground">
+                  <div id="mainnav">
+                     <ul id="toplevel"><li><a href="/academics/mcsd/directory.html">Division Directory</a></li>
+<li><a href="/academics/mcsd/computer-science/index.html">Computer Science Department</a></li>
+<li><a href="/academics/mcsd/math/index.html">Mathematics Department</a></li>
+                        <li>
+                           <ul class="currentlevel">
+<li><a href='javascript:void(0)' onclick='alert("Cannot log in? Call District IT at (925) 229-6888")'>H E L P</a></li>
+<li><a href="/academics/mcsd/computer-science/class-schedule.html">Class Schedules</a></li>
+<li><a href="/academics/mcsd/computer-science/directory.html">Computer Science Department Directory</a></li>
+<li><a href="/academics/mcsd/computer-science/labar.html">COMSC-101 Labs</a></li>
+<li><a href="/academics/mcsd/computer-science/msdnaa.html">DreamSpark Software</a></li>
+<li><a href="/academics/mcsd/computer-science/resources.html">Free Programming Resources</a></li>
+<li><a href="/academics/mcsd/computer-science/student-surveys.html">Student Surveys</a></li>
+<!-- <li><a href="http://www.dvc.edu/academics/mcsd/computer-science/stuff-to-do.html">Stuff to do</a></li> -->
+<li><a href="/academics/mcsd/computer-science/textbooks.html">Textbooks and Other Course Materials</a></li>
+<li><a href="/academics/mcsd/computer-science/tutoring.html">Computer Center</a></li>
+<li><a href="/academics/mcsd/computer-science/computer-net-tech/index.html">Computer Network Technology (CNT)</a></li>
+<li><hr /></li>
+<!-- <li><a href="http://www3.dvc.edu/org/academics/class-schedules/cnt-fall.htm">CNT class schedule</a></li> --> <!-- <li><a href="http://www3.dvc.edu/org/academics/class-schedules/comsc-fall.htm">COMSC class schedule</a></li> -->
+<li><a href="/academics/mcsd/computer-science/pdfs/computer-science-sequence.pdf" target="_blank">COMSC Course Sequence</a></li>
+<li><hr /></li>
+<li><a href="http://web.dvc.edu/handytools" target="_blank">Handy Tools</a></li>
+</ul>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div id="location">
+                  <p class="breadcrumb">You are here: <a href="/">Home</a> &gt; <a href="/academics/">	Academics</a> &gt; <a href="/academics/mcsd/">	Math and Computer Science</a> &gt; <a href="/academics/mcsd/computer-science/">	Computer Science</a> &gt; <strong>	Directory</strong></p>
+               </div>
+               <div id="lowercontent">
+                  <p><img title="computer science dept" src="/academics/cte-images/CTE-computer-science-dept-title.jpg" alt="computer science dept" width="500" height="122" /></p>
+                  <table style="width: 95%;">
+                     <tbody>
+                        <tr>
+                           <td style="background-color: #ece8b5;" colspan="4"><strong>Computer Science Department</strong></td>
+                        </tr>
+                        <tr>
+                           <td style="width: 40%;"><a title="email LAmarachinta@dvc.edu" href="mailto:LAmarachinta@dvc.edu">Amarachinta, Lakshmi</a></td>
+                           <td style="width: 25%;">Instructor (part-time)</td>
+                           <td style="width: 20%;"> </td>
+                           <td style="width: 40%;"> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email LAsher@dvc.edu" href="mailto:LAsher@dvc.edu">Asher, Leslie</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email DBlackburn@dvc.edu" href="mailto:DBlackburn@dvc.edu">Blackburn, Daniella</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email RBurns@dvc.edu" href="mailto:RBurns@dvc.edu">Burns, Robert</a></td>
+                           <td><strong>Department Chair</strong></td>
+                           <td>925-969-2614</td>
+                           <td>LA-111</td>
+                        </tr>
+                        <tr>
+                           <td><a title="email TChern@dvc.edu" href="mailto:TChern@dvc.edu">Chern, Tony</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email VColber@dvc.edu" href="mailto:VColber@dvc.edu">Colber, Valerie</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email AElkady@dvc.edu" href="mailto:AElkady@dvc.edu">Elkady, Valerie</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email SFogg@dvc.edu" href="mailto:SFogg@dvc.edu">Fogg, Stu</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email sjohnson444@email.4cd.edu" href="mailto:sjohnson444@email.4cd.edu">Johnson, Sam</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email FKennedy@dvc.edu" href="mailto:FKennedy@dvc.edu">Kennedy, Fred</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email GKhaja@dvc.edu" href="mailto:GKhaja@dvc.edu">Khaja, Gene</a></td>
+                           <td>Instructor</td>
+                           <td>925-969-2612</td>
+                           <td>LA-109</td>
+                        </tr>
+                        <tr>
+                           <td><a title="email HKolen@dvc.edu" href="mailto:HKolen@dvc.edu">Kolen, Heidi</a></td>
+                           <td>Instructor</td>
+                           <td>925-969-2613</td>
+                           <td>LA-110</td>
+                        </tr>
+                        <tr>
+                           <td><a title="email CPentcheva@dvc.edu" href="mailto:CPentcheva@dvc.edu">Pentcheva, Caterina</a></td>
+                           <td>Instructor</td>
+                           <td>925-969-2348</td>
+                           <td>LA-108</td>
+                        </tr>
+                        <tr>
+                           <td><a title="email BSchick@dvc.edu" href="mailto:BSchick@dvc.edu">Schick, Brian</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email HStalica@dvc.edu" href="mailto:HStalica@dvc.edu">Stalica, Hank</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email MStrait@dvc.edu" href="mailto:MStrait@dvc.edu">Strait, Michael</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email STajbakhsh@dvc.edu" href="mailto:STajbakhsh@dvc.edu">Tajbakhsh, Shahin</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email SYoun@dvc.edu" href="mailto:SYoun@dvc.edu">Youn, Steve</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email LZandi@dvc.edu" href="mailto:LZandi@dvc.edu">Zandi, Lily</a></td>
+                           <td>Instructor (part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: #ece8b5;" colspan="4"><strong>Computer Network Technology Area</strong></td>
+                        </tr>
+                        <tr>
+                           <td><a title="email CMartucci@dvc.edu" href="mailto:CMartucci@dvc.edu">Martucci, Cheryl</a></td>
+                           <td><strong>Area Head</strong></td>
+                           <td>925-969-2486</td>
+                           <td>FO-231/ATC-110A</td>
+                        </tr>
+                        <tr>
+                           <td><a title="email JMount@dvc.edu" href="mailto:JMount@dvc.edu">Mount, James</a></td>
+                           <td>Instructor (Part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><a title="email KVonberg@dvc.edu" href="mailto:KVonberg@dvc.edu">Vonberg, Ken</a></td>
+                           <td>Instructor (Part-time)</td>
+                           <td> </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: #ece8b5;" colspan="4"><strong>Math/Computer Science and Business Education Divisions</strong></td>
+                        </tr>
+                        <tr>
+                           <td><a title="email MAhola@dvc.edu" href="mailto:MAhola@dvc.edu">Ahola, Margie</a></td>
+                           <td>Senior Administrative Secretary</td>
+                           <td>925-969-2688</td>
+                           <td>MA-267</td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: #ece8b5;" colspan="4"><strong>Math/Computer Science and Business Education Divisions</strong></td>
+                        </tr>
+                        <tr>
+                           <td><a title="email DPrapavessi@dvc.edu" href="mailto:DPrapavessi@dvc.edu">Prapavessi, Despina</a></td>
+                           <td>Dean</td>
+                           <td>925-969-2689</td>
+                           <td>MA-267</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p> </p>
+               </div>
+               <div class="clearout"></div>
+            </div>
+         </div>
+      </div>
+      <div id="footer">
+         <div id="footer-left">
+            <ul id="footer-menu"><p><a title="Apply To D V C" href="/future/steps/index.html">Apply to DVC</a> |
+ <a title="Contra Costa College Website" onclick="javascript: _gaq.push(['_trackPageview', 'CCC']);" href="http://www.contracosta.edu/" target="_blank">CCC</a> | 
+ <a title="Los Medanos College Website" onclick="javascript: _gaq.push(['_trackPageview', 'LMC']);" href="http://www.losmedanos.edu/" target="_blank">LMC</a> | 
+ <a title="College District Office" onclick="javascript: _gaq.push(['_trackPageview', 'DistrictOffice']);" href="http://www.4cd.edu/" target="_blank">District office</a> | 
+ <a title="Legal Notice and Disclaimer" href="/communication/policies/disclaimer.html">Legal notice</a> | 
+ <a class="rss" href="http://www.dvc.edu/feeds/news.xml"><img title="rss" src="/_resources/images/rss-icon.jpg" alt="rss" width="10" height="10" /></a><br />
+<a title="4CD Confidential Hotline" onclick="javascript: _gaq.push(['_trackPageview', 'EthicsHotline']);" href="https://secure.ethicspoint.com/domain/media/en/gui/33933/index.html" target="_blank">4CD Confidential Hotline</a></p>
+</ul>
+            <div id="datestamp">
+               <a href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=dvc&amp;site=www&amp;action=de&amp;path=/academics/mcsd/computer-science/directory.pcf" target="_top">Last Updated: 3/25/16</a>
+            </div>
+         </div>
+         <div id="footer-right"><a id="footer-logo" href="/"><img title="D V C logo" src="/_resources/images/footer_logo.gif" alt="D V C logo" width="58" height="26" /></a>
+<p>Pleasant Hill Campus • 321 Golf Club Road, Pleasant Hill, CA 94523 • 925-685-1230 <br /> San Ramon Campus • 1690 Watermill Road, San Ramon, CA 94582 • 925-866-1822 <br /> ©Copyright 2011-2015 Diablo Valley College<br /><br /></p>
+</div>
+      </div>
+   </body>
+</html>

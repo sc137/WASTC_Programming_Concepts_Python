@@ -1,11 +1,43 @@
 Friday morning, June 24th
 1. Text file I/O
 
+We've done file input - now for some file output.
+
+[file input exercise](fileIO.py)
+
+# file output - create new file
+# using variable "fout" for cross lang consistency
+fout = open("output.txt", "w")		# the 'w' opens for writing
+									# destroys existing file
+fout.write("Hello\n")				# not an automatic \n
+fout.write("world\n")
+fout.write("12345\n")				#output must be a str
+fout.close()
+
+
+# file output - append
+# using variable "fout" for cross lang consistency
+fout = open("output.txt", "a")		# the 'a' appends to a file
+fout.write("Hello2\n")				# not an automatic \n
+fout.write("world2\n")
+fout.write(str(12345) +"\n")				#output must be a str
+fout.close()
+
+"the goto is always the nested for loop sort..."
+
 
 
 2. Hands-on:“NSAEncoder,9.2,10.6and11.6”,“NSADecoder9.3,10.7and
 11.7”, “Term Project: Email Parser, 15.4”
 
+>>> ord('A')
+65
+>>> chr(65)
+'A'
+>>> chr(65 + 32)
+'a'
 
 
-3. Sharing:bestwaystoassignacomprehensivetermproject
+3. Sharing:best ways to assign a comprehensive term project
+
+
