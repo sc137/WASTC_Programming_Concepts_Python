@@ -23,7 +23,7 @@ for lineFromFile in file: #EOF loop
 
 while True:
 	playNext = input("Play a song? [Y/N]: ")
-	if playNext.lower() == 'n': break
+	if not playNext.lower() == 'y': break
 	
 	i = random.randint(0, n -1) # inclusive
 	print (a[i])
