@@ -1,5 +1,7 @@
 # WASTC Programming Concepts - Python
 
+[Class resource site](http://rdb3.com/wastc/)
+
 My notes for the 2016 WASTC training for teaching Programming Concepts using Python.
 
 * [Day 1](notes_day1.txt)
