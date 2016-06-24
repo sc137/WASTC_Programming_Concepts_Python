@@ -19,7 +19,7 @@ def isEmail(p):
 
 potentialEmail = []
 
-line = "<dana@dansid..com>  george martin@youremail.com"
+#line = "<dana@dansid..com>  george martin@youremail.com"
 for i in range(len(line)):
     if(line[i] == '@'):
         hasDot = False
