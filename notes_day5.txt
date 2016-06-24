@@ -1,0 +1,11 @@
+Friday morning, June 24th
+1. Text file I/O
+
+
+
+2. Hands-on:“NSAEncoder,9.2,10.6and11.6”,“NSADecoder9.3,10.7and
+11.7”, “Term Project: Email Parser, 15.4”
+
+
+
+3. Sharing:bestwaystoassignacomprehensivetermproject
