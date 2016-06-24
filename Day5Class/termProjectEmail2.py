@@ -4,9 +4,10 @@ def isValid(c):
     if ('a' <= c and c <= 'z'): return True
     if (c in ".!#$%&'*+-/=?^_`{|}~"): return True
     return False
+
 a = [None for i in range(1000)]
 n = 0
-#line = "<   rburns@dvc.edu   tina@@rdb3.com  "
+
 fin = open('/Users/danaarazi/gitShit/WASTC_Programming_Concepts_Python/Day3Class/sample_email_lists.txt')
 for line in fin:
     for i in range(len(line)):
@@ -34,8 +35,22 @@ for line in fin:
 
 fin.close()
 
-a = a[:n]
-a.sort()
+a = a[:n] #this clips the array to remove unused capacity
+
+#a.sort() #this sort function seperates upper and lower case.
+for i in range(len(a)):
+    for j in range(i + 1, len(a)):
+        if a[j].upper() < a[i].upper():
+            a[i], a[j] = a[j], a[i]
+
+
 for i in range(len(a)):
     print (a[i])
+    i += 1
+
+fout = open("formattedEmail.txt", 'w')
+for i in range(len(a)):
+    fout.write(a[i] + '\n')  # this one is for a list on seperate lines
+    #fout.write(a[i])  #this one is for a ; seperated list
+    #if i < len(a): fout.write(';') #this one is for a ; seperated list
     i += 1

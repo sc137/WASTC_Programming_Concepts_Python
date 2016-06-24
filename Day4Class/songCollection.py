@@ -14,7 +14,7 @@ aSong = 'Yellow Submarine'
 songs[:0] = [aSong] # Inserts at the front
 
 aSong = 'Imagine'
-songs[len(songs):] = [aSong] # Inserts at the front
+songs[len(songs):] = [aSong] # Inserts at the end
 
 songs = songs[1:] # removes first song
 songs = songs [:len(songs) - 1] # removes last song
