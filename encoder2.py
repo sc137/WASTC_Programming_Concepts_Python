@@ -22,9 +22,10 @@ while True:
 		sNew += chr(ord(sOld[i]) + offset[index])
 		counter += 1
 	# write the line to the output file
-	fout.write(sNew + '\n')
+	fout.write(sNew + "\n")
 	
 	# loop ends here
+print ("Your encoded message is stored in the file: secret.txt")
 
 # close input and output files
 fout.close()
